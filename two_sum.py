@@ -11,7 +11,10 @@ def two_sum(nums : List[int], target: int) -> List[int]:
             j+=1
         i+=1
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a835e2b52f1ab07293d6b2bf70beb09e88b7cc3
 ## in을 이용한 탐색
 def two_sum_in(nums : List[int], target: int) -> List[int]:
     for i, n in enumerate(nums):
